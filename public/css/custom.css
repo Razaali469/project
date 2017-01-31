@@ -1,0 +1,63 @@
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+  width: 100%;
+  margin: auto;
+}
+.theatre {
+text-align: center;
+}
+
+.navbar-footer{
+background-color: black;
+}
+
+.panel-footer
+{
+background-color: #660000;}
+
+h3{
+color: Black;
+}
+
+.name{
+border-style: groove;
+}
+
+.design{
+background-color: #640000;
+border: 2px solid black;
+border-radius: 4px;
+}
+
+.namedesign{
+width: 100%;
+background: #640000;
+}
+
+._ev-location{
+width: 100%;
+float: left;
+color: #666;
+font-size: 14px;
+margin-top: 4px;
+}
+
+.ev-date{
+float: left;
+color: #999;
+padding-right: 5px;
+text-align: left;
+margin-bottom: 10px;
+}
+
+.footer {
+   margin-bottom: 0%;
+   width: 100%;
+   height:60px;
+   background:#333338;
+}
+
+.footer>p{
+  text-align: center;
+  color: white;
+}
